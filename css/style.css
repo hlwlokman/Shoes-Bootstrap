@@ -1,0 +1,23 @@
+.header-area{
+    height: 715px;
+    background-color: lightgoldenrodyellow;
+    margin-top: 10px;
+    width: 100%;
+    
+
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+.font{
+    font-size: 80px;
+}
+.tomato{
+    color: tomato;
+}
+.blue{
+    color: blue;
+}
+.checked{
+    color: tomato;
+}
